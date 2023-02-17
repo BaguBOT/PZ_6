@@ -28,7 +28,7 @@ void PrintbadStudents()
 ;
     foreach (var ATEST in NOAtest)
         NOAtest.Add(ATEST);
-    Console.WriteLine(NOAtest);
+    
 }
 
 class Student
